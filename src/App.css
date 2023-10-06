@@ -1,0 +1,30 @@
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 64px;
+    letter-spacing: 0;
+    color: rgb(4, 11, 34);
+}
+.underline{
+  height: 1px;
+  width: 100px;
+  border: 2px solid rgb(15, 116, 15);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.img-item{
+  padding: 0.5px;
+  width: 200px;
+  border-radius: 6px;
+  height: 150px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+.shadow{
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.164);
+}
